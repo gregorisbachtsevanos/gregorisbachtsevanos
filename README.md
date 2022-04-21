@@ -25,7 +25,7 @@
 
 ### Hi there 👋
 
- Technologies & Tools
+<h2>Technologies & Tools</h2>
 <div>
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=white&style=plastic"/>
