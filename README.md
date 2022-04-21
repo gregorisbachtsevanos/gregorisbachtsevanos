@@ -23,6 +23,9 @@
     </tbody>
 </table>
 
+### Hi there 👋
+
+ Technologies & Tools
 <div>
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=white&style=plastic"/>
@@ -43,8 +46,6 @@
 <img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
 </div>
 
-          
-### Hi there 👋
  
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
