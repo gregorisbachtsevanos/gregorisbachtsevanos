@@ -1,9 +1,9 @@
 ### Hi there 👋
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
 
 <!--
 **GregorisB/GregorisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
