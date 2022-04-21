@@ -22,7 +22,17 @@
         </tr>
     </tbody>
 </table>
-<style>H1{color:Blue;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
 # Hi there 👋
 
 <h2>Technologies & Tools</h2>
