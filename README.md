@@ -28,7 +28,7 @@
           
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/></div>
 
 
