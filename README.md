@@ -24,7 +24,7 @@
 </table>
 
 
-<img src="https://img.shields.io/badge/-VueJs-3CB371?logo=vue.js&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-3CB371?logo=node.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-ExpressJs-2e2e2e?logo=Express&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-3CB371?logo=node.js&logoColor=white&style=plastic"/>
