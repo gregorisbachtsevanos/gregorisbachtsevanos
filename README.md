@@ -46,7 +46,8 @@
 <img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
 </div>
 
- 
+<h2>📈 GitHub Stats</h2>
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
