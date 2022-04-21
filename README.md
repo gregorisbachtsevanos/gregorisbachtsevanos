@@ -1,6 +1,6 @@
 
 <table width="100%" align="center">
-    <tbody align="center">
+    <tbody>
         <tr valign="top">
             <td width="100px" align="center">
             <span><strong style="color: #51942b">MongoDB</strong></span><br>
