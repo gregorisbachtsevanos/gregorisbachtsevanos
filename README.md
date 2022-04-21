@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true"/>
 
 <!--
 **GregorisB/GregorisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
