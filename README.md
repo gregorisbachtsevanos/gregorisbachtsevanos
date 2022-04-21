@@ -1,7 +1,7 @@
 
 <table width="320px">
     <tbody>
-        <tr style="background-color:white" valign="top">
+        <tr  valign="top">
             <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
