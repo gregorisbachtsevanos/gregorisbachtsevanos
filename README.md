@@ -27,9 +27,14 @@
 
           
 ### Hi there 👋
- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/></div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/></div>
+ 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
+</div>
 
 
 <!--
