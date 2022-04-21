@@ -60,7 +60,8 @@ This is a test to see how the colors work.
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
+    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?cardType=level)](https://git.io/awesome-stats-card)
+
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
