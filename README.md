@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=white&style=plastic"/>
 
-<img src="https://img.shields.io/badge/-Express-#000000?logo=Express&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-ExpressJs-#000000?logo=ExpressJs&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 
           
