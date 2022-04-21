@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
 ### Hi there 👋
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
 
