@@ -35,9 +35,12 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
+
 
 
           
