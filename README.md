@@ -3,7 +3,7 @@
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
-            <span><strong color="red">MongoDB</strong></span><br>
+            <span><strong>MongoDB</strong></span><br>
             <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
             </td>
             <td width="100px" align="center">
