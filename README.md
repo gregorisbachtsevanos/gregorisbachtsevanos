@@ -31,8 +31,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=white&style=plastic"/>
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 
