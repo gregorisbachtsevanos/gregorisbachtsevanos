@@ -27,8 +27,14 @@
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-ExpressJs-2e2e2e?logo=Express&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-NodeJs-3CB371?logo=node.js&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-NodeJs-3CB371?logo=node.js&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=plastic"/>
+
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 
           
 ### Hi there 👋
