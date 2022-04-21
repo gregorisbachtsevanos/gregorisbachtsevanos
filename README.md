@@ -23,8 +23,8 @@
     </tbody>
 </table>
 
-https://img.shields.io/badge/-vuejs-3CB371?logo=vue.js&style=plastic
 
+<img src="https://img.shields.io/badge/-vuejs-3CB371?logo=vue.js&style=plastic"/>
           
 ### Hi there 👋
  
