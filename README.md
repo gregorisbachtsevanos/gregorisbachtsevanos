@@ -48,13 +48,9 @@
 
 ## 📈 GitHub Stats
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
 
 
 <!--
