@@ -3,7 +3,7 @@
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
-            <span><strong>MongoDB</strong></span><br>
+            <span><strong style="color: #51942b">MongoDB</strong></span><br>
             <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
             </td>
             <td width="100px" align="center">
@@ -23,7 +23,6 @@
     </tbody>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true)
 
 
           
