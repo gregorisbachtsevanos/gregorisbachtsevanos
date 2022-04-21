@@ -1,5 +1,5 @@
 
-<table bg_color="#ffffff"width="100%">
+<table width="100%">
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
@@ -28,7 +28,7 @@
           
 ### Hi there 👋
 <div width="100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/></div>
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/></div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/></div>
 
 
