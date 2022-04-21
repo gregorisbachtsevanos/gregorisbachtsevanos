@@ -22,7 +22,9 @@
         </tr>
     </tbody>
 </table>
-          
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregorisB)](https://github.com/anuraghazra/github-readme-stats)
+
           
 ### Hi there 👋
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/>
