@@ -1,5 +1,5 @@
 
-<table bg_color="red"width="100%">
+<table bg_color="#ffffff"width="100%">
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
