@@ -35,7 +35,7 @@ p{color:Black !important;}
 This is a test to see how the colors work.
 # Hi there 👋
 
-<h2>Technologies & Tools</h2>
+##Technologies & Tools
 <div>
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=white&style=plastic"/>
@@ -56,7 +56,7 @@ This is a test to see how the colors work.
 <img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
 </div>
 
-<h2>📈 GitHub Stats</h2>
+##📈 GitHub Stats
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
