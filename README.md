@@ -31,17 +31,18 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=plastic"/>
+<div>
 <img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
-
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=plastic"/>
-
-
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=Bulma&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
+</div>
 
           
 ### Hi there 👋
