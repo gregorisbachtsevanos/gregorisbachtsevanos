@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true"/>
