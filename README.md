@@ -26,7 +26,7 @@
 # Hi there 👋
 
 ## Technologies & Tools
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-ExpressJs-000000?logo=Express&logoColor=white&style=plastic"/>
@@ -48,7 +48,7 @@
 
 ## 📈 GitHub Stats
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/><img width="50%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
+<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/><img width="50%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
 
 <div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/></div>
 
