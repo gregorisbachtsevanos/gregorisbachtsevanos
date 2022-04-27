@@ -48,7 +48,7 @@
 
 ## 📈 GitHub Stats
 
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/><img width="50%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/><img width="50%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
 
 <div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/></div>
 
