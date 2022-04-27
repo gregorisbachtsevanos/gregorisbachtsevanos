@@ -17,18 +17,18 @@
             </td>
         </tr>
         <tr valign="top">
-            <td width="100%" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+            <td width="100px" align="center">
+            <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
             </td>
-            <td width="100%" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+            <td width="100px" align="center">
+            <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
             </td>
-            <td width="100%" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+            <td width="100px" align="center">
+            <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
             </td>
-            <td width="100%" align="center">
+            <td width="100px" align="center">
                 </strong></span><br>
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
         </tr>
     </tbody>
