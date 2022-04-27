@@ -29,6 +29,20 @@
                 <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
         </tr>
+        <tr valign="top">
+            <td width="100px" align="center">
+                <span><strong style="color: #51942b">MongoDB</strong></span><br>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Express.js</strong></span><br>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Vue.js</strong></span><br>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Node.js</strong></span><br>
+            </td>
+        </tr>
     </tbody>
 </table>
 
