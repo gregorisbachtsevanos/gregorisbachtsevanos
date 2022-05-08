@@ -56,9 +56,9 @@
 </div>
 
 ## 📈 GitHub Stats
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
-</div>
+</div> -->
 <div width="100%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
 </div>
