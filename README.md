@@ -40,7 +40,6 @@
 
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007acc?logo=TypeScript&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=plastic)
 
 #### Front End
 ![](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=black&style=plastic)
@@ -53,6 +52,7 @@
 #### Back End
 ![](https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-ExpressJs-000000?logo=Express&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=plastic)
 
 #### Datadases
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=black&style=plastic)
