@@ -37,22 +37,24 @@
 ## Technologies & Tools
 <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-TypeScript-007acc?logo=TypeScript&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=plastic"/>
-    <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=black&style=plastic"/>
-    <img src="https://img.shields.io/badge/-ExpressJs-000000?logo=Express&logoColor=white&style=plastic"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=black&style=plastic"/>
-    <img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
-    <img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=white&style=plastic"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=Bulma&logoColor=black&style=plastic"/>
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=black&style=plastic"/>
-    <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=black&style=plastic"/>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-NodeJs-4FC08D?logo=node.js&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-ExpressJs-000000?logo=Express&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=black&style=plastic"/>
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-ejs-B4C965?logo=ejs&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-Handlebars.js-000000?logo=Handlebars.js&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=black&style=plastic"/>
+    <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=black&style=plastic"/>
 </div>
 
 ## 📈 GitHub Stats
