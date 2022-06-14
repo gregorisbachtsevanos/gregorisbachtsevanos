@@ -36,7 +36,9 @@
 
 ## Technologies & Tools
 #### Languages
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic)
+<!-- [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0) -->
+
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007acc?logo=TypeScript&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=black&style=plastic)
 
