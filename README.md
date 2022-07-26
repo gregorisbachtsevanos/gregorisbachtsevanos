@@ -34,22 +34,6 @@
 
 # Hi there 👋
 
-<!-- ## Technologies & Tools
-#### Languages -->
- [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-
-   
-
-<!-- ## 📈 GitHub Stats -->
-<!-- <div width="100%" align="center">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark"/> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GregorisB&show_icons=true&theme=dark"/>
-</div> -->
-<!-- <div width="100%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregorisB&layout=compact&theme=dark"/>
-</div> -->
-
 
 <!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
