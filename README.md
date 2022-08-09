@@ -17,16 +17,16 @@
         </tr>
         <tr valign="top">
             <td width="100px" align="center">
-                <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+                <img height="100%" src="https://skillicons.dev/icons?i=mongodb">
             </td>
             <td width="100px" align="center">
-                <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+                <img height="100%" src="https://skillicons.dev/icons?i=express">
             </td>
             <td width="100px" align="center">
-                <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+                <img height="100%" src="https://skillicons.dev/icons?i=react">
             </td>
             <td width="100px" align="center">
-                <img height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+                <img height="100%" src="https://skillicons.dev/icons?i=nodejs">
             </td>
         </tr>
     </tbody>
@@ -44,9 +44,8 @@
 <!--🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 -->
 
-# 💻 Tech Stack:
+# 💻 Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
