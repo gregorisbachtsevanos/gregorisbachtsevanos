@@ -86,19 +86,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=245482)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GregorisB&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GregorisB&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GregorisB&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/GregorisB"><img src="https://activity-graph.herokuapp.com/graph?username=GregorisB&bg_color=1c1917&color=444e59&line=f97316&point=444e59&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GregorisB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GregorisB&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!--### 😂 Random Dev Meme -->
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-<!-- [![](https://visitcount.itsvg.in/api?id=GregorisB&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
