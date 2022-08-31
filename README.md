@@ -54,6 +54,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
 ![Astro](https://img.shields.io/badge/astro-6821A5.svg?style=for-the-badge&logo=astro)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1A3350.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -77,6 +78,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-1A73BA.svg?style=for-the-badge&logo=webpack)
+![Babel](https://img.shields.io/badge/babel-3B3C37.svg?style=for-the-badge&logo=babel)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
