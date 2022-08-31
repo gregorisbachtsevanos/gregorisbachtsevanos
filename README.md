@@ -53,6 +53,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/astro-6821A5.svg?style=for-the-badge&logo=astro)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1A3350.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
