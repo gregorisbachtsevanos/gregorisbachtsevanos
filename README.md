@@ -58,7 +58,7 @@
 ![Astro](https://img.shields.io/badge/astro-6821A5.svg?style=for-the-badge&logo=astro)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1A3350.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=bulma)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7852B2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/material%20ui-001E3C.svg?style=for-the-badge&logo=mui)
 
