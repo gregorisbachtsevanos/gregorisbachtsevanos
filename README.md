@@ -55,7 +55,6 @@
 
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
-![Astro](https://img.shields.io/badge/astro-6821A5.svg?style=for-the-badge&logo=astro)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1A3350.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=bulma)
@@ -71,7 +70,6 @@
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Amazon](https://img.shields.io/badge/aws-222F3E.svg?style=for-the-badge&logo=amazon)
 ![Linode](https://img.shields.io/badge/linode-32363A.svg?style=for-the-badge&logo=linode)
 
 ![Docker](https://img.shields.io/badge/Docker-2396ec.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -81,6 +79,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-1A73BA.svg?style=for-the-badge&logo=webpack)
 ![Babel](https://img.shields.io/badge/babel-3B3C37.svg?style=for-the-badge&logo=babel)
+![Babel](https://img.shields.io/badge/vite-FFB50D.svg?style=for-the-badge&logo=vite)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
