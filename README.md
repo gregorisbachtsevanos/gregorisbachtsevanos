@@ -32,7 +32,7 @@
     </tbody>
 </table>
 
-<!-- # Hi there 👋 -->
+# Hi there 👋
 
 
 <!-- ## 🔗 Links
