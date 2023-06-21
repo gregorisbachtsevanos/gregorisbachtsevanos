@@ -86,8 +86,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=245482)
-# 📊 GitHub Stats:
-<a href="http://www.github.com/gregorisbachtsevanos"><img src="https://activity-graph.herokuapp.com/graph?username=gregorisbachtsevanos&bg_color=1c1917&color=444e59&line=f97316&point=444e59&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorisbachtsevanos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
