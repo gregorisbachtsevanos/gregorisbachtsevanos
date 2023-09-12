@@ -69,6 +69,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
