@@ -13,7 +13,7 @@
             <td width="100px" align="center">
                 <span><strong>Node.js</strong></span><br>
             </td>
-        </tr>
+        </tr>        
         <tr valign="top">
             <td width="100px" align="center">
                 <img height="100%" src="https://skillicons.dev/icons?i=mongodb">
@@ -31,7 +31,6 @@
     </tbody>
 </table>
 #Hi there 👋
-
 <!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
