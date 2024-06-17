@@ -1,84 +1,58 @@
-<table width="100%" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="100px" align="center">
-                <span><strong style="color: #51942b">MongoDB</strong></span><br>
-            </td>
-            <td width="100px" align="center">
-                <span><strong>Express.js</strong></span><br>
-            </td>
-            <td width="100px" align="center">
-                <span><strong>React.js</strong></span><br>
-            </td>
-            <td width="100px" align="center">
-                <span><strong>Node.js</strong></span><br>
-            </td>
-        </tr>        
-        <tr valign="top">
-            <td width="100px" align="center">
-                <img height="100%" src="https://skillicons.dev/icons?i=mongodb">
-            </td>
-            <td width="100px" align="center">
-                <img height="100%" src="https://skillicons.dev/icons?i=express">
-            </td>
-            <td width="100px" align="center">
-                <img height="100%" src="https://skillicons.dev/icons?i=react">
-            </td>
-            <td width="100px" align="center">
-                <img height="100%" src="https://skillicons.dev/icons?i=nodejs">
-            </td>
-        </tr>
-    </tbody>
-</table>
-#Hi there 👋
-<!-- ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
--->
+# Hi there 👋
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorisbachtsevanos)
+Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer with a focus on full-stack web development and UI/UX design.
 
-<!-- # 💫 About Me: -->
-<!--🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
--->
+## 🌟 Skills
 
-# 💻 Skills:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Front-End Development
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![SASS](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
-
+![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
-![Redux](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
 
-![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=bulma)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7852B2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/material%20ui-001E3C.svg?style=for-the-badge&logo=mui)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
+### Back-End Development
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-E8E8E8.svg?style=for-the-badge&logo=express&logoColor=black)
-
-![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
 ![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase)
-![Firebase](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 
+### UI/UX Design & Tools
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+### Other Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2396ec.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/YARN-2188B6.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=245482)
+<!--## 📂 Projects
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorisbachtsevanos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- **Project 1:** Brief description or link.
+- **Project 2:** Brief description or link.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Check out more projects on [my portfolio](https://katherinempeterson.com/).-->
+
+## 📫 Connect with Me
+
+- LinkedIn: [Gregoris Bachtsevanos](https://www.linkedin.com/in/gregorisbachtsevanos)
+
+## 🌱 Currently Learning
+
+I'm currently exploring advanced React patterns and diving deeper into UI animation techniques.
+
+## 🎨 Fun Facts
+
+- I love experimenting with new design trends and techniques.
+- I enjoy contributing to open-source projects in my spare time.
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
