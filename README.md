@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
 ![Next.js](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
