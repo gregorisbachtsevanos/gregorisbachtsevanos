@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer with a focus on full-stack web development and UI/UX design.
+Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer specializing in front-end web development with a strong foundation in full-stack development and UI/UX design.
 
 ## 🌟 Skills
 
