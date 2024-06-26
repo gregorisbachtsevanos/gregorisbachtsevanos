@@ -34,10 +34,8 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![YARN](https://img.shields.io/badge/YARN-2188B6.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 <!--## 📂 Projects
-
 - **Project 1:** Brief description or link.
 - **Project 2:** Brief description or link.
-
 Check out more projects on [my portfolio](https://katherinempeterson.com/).-->
 
 ## 📫 Connect with Me
