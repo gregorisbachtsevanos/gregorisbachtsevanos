@@ -4,11 +4,14 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 
 ## 🌟 Skills
 
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-f6d049.svg?style=for-the-badge&logo=python&logoColor=346d9e)
+
 ### Front-End Development
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
@@ -22,7 +25,7 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
 ![Postgresql](https://img.shields.io/badge/postgesql-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=F29121)
 ![Supabase](https://img.shields.io/badge/supabase-1c1c1c.svg?style=for-the-badge&logo=supabase&logoColor=3ed18f)
-![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase&logoColor=ffcd33)
 ![Redis](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 
 ### UI/UX Design & Tools
