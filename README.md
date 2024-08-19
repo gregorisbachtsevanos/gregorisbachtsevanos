@@ -16,8 +16,12 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-E8E8E8.svg?style=for-the-badge&logo=express&logoColor=black)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
+![Postgresql](https://img.shields.io/badge/postgesql-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=F29121)
+![Supabase](https://img.shields.io/badge/supabase-1c1c1c.svg?style=for-the-badge&logo=supabase&logoColor=3ed18f)
 ![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase)
 ![Redis](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 
