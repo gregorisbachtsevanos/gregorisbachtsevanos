@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 
 <!--## 📂 Projects
 - **Project 1:** Brief description or link.
-- **Project 2:** Brief description or link.
 Check out more projects on [my portfolio](https://katherinempeterson.com/).
 -->
 
