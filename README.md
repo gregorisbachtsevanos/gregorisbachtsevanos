@@ -58,6 +58,4 @@ I’m diving deeper into advanced React patterns and UI animation techniques to 
 - I love experimenting with new design trends and techniques.
 - I love creating automation scripts for daily tasks to make workflows more efficient.
 
----
-
 Thanks for visiting! 🎉 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Happy coding! 🚀
