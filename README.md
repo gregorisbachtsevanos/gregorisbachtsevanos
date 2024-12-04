@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 
 ### Front-End Development
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
 ![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
@@ -36,9 +35,8 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ### Other Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2396ec.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/YARN-2188B6.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-darkred?style=for-the-badge&logo=mongoose)
+![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
 
 <!--## 📂 Projects
 - **Project 1:** Brief description or link.
