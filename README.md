@@ -38,10 +38,10 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![Mongoose](https://img.shields.io/badge/mongoose-darkred?style=for-the-badge&logo=mongoose)
 ![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
 
-<!--## 📂 Projects
+ 📂 Projects
 - **Project 1:** Brief description or link.
-Check out more projects on [my portfolio](https://katherinempeterson.com/)
--->
+Check out more projects on [my portfolio](https://katherinempeterson.com/).
+
 
 ## 📫 Connect with Me
 
