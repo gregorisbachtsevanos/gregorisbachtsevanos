@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
 
  📂 Projects
-- **Project 1:** Brief description or link.
+<!--## - **Project 1:** Brief description or link.
 Check out more projects on [my portfolio](https://katherinempeterson.com/).
-
+-->
 
 ## 📫 Connect with Me
 
