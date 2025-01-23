@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Mongoose](https://img.shields.io/badge/mongoose-darkred?style=for-the-badge&logo=mongoose)
 
- 📂 Projects
+ ## 📂 Projects
  
 Check out my repositories to explore my latest projects!
 
