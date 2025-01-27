@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer with a strong foundation in full-stack development, specializing in front-end technologies. I enjoy crafting dynamic, user-friendly interfaces while also diving deep into back-end logic to create efficient and scalable web applications. I'm driven by a passion for coding, always striving to improve my skills, solve complex challenges, and build applications that make a meaningful impact/
+Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer with a strong foundation in full-stack development, specializing in front-end technologies. I enjoy crafting dynamic, user-friendly interfaces while also diving deep into back-end logic to create efficient and scalable web applications. I'm driven by a passion for coding, always striving to improve my skills, solve complex challenges, and build applications that make a meaningful impact.
 
 ## 🌟 Skills
 
