@@ -50,4 +50,4 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 - I love automating workflows with scripts to simplify everyday tasks.
 - I enjoy experimenting with new technologies to stay ahead of trends.
 
-Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀
+Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
