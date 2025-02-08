@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer 
 
  ## 📂 Projects
  
-Check out my repositories to explore my latest projects!
+Check out my repositories to explore my latest projects!!
 
 ## 📫 Connect with Me
 
