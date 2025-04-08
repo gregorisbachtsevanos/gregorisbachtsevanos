@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Deploy a Node.js Application on AWS](https://app.daily.dev/posts/PCYCQZijz?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Improve Asynchronous State UX in React with useOptimistic](https://app.daily.dev/posts/8VNHmq3cI?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Building a Real-time Voice RAG Agent](https://app.daily.dev/posts/byRqMXD0o?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [System Design for DevOps Engineers](https://app.daily.dev/posts/5fCQ6lOV5?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [40 open-source gems to replace your SaaS subscriptions 🔥 🚀](https://app.daily.dev/posts/wDKQHbrP2?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Building what customers need, not just what they ask for](https://app.daily.dev/posts/bNyXEfA1Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
