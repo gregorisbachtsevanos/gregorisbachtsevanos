@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Authorization in Next.js](https://app.daily.dev/posts/jcagPrRON?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Micro-Retirement: A New Way To Live](https://app.daily.dev/posts/Fq1Buagq5?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [5 Must-Know Deployment Strategies](https://app.daily.dev/posts/NC4p67AQ8?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Using Bolt.new locally using Bolt.diy and Ollama](https://app.daily.dev/posts/2m8GuNKzB?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [API Design Patterns: Best Practices for Building Scalable Interfaces](https://app.daily.dev/posts/DwubMMpOJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Animations CSS Generator](https://app.daily.dev/posts/367ZIo14c?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/qMcMu7SMz?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
