@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [🚀 Start Learning System Design Easily with 30 Core Concepts](https://app.daily.dev/posts/hcmLaAgHv?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Adaptive Video Streaming With Dash.js In React — Smashing Magazine](https://app.daily.dev/posts/ir9MB23Df?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Git Branching Strategies: A Comprehensive Guide](https://app.daily.dev/posts/yapcYtp5F?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Building a Video Streaming Service Using AWS S3, CloudFront, and React](https://app.daily.dev/posts/UGC83WD8G?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [How I&#39;m Deploying My Future Web Applications](https://app.daily.dev/posts/Bm09xZoS2?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/HhnoOQQWR?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [EC2: Building a Production-Grade CI/CD Pipeline for Node.js Using GitHub Actions](https://app.daily.dev/posts/UbN5P9TZo?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
