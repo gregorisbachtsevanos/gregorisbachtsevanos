@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Node.js — Making Node.js Downloads Reliable](https://app.daily.dev/posts/ZBh3qew8E?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/j9kui6IP0?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Build Your Own AI Fitness Trainer for Free - Full Next.js Project](https://app.daily.dev/posts/AGX890Grv?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Watt Admin: Your Local Node.js Monitoring Solution](https://app.daily.dev/posts/Mv0UnMJuS?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Add Live Chat to Your Applications with Rocket.chat](https://app.daily.dev/posts/6pg9lX0jl?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [📍The Art of Choosing the Right Database](https://app.daily.dev/posts/G9wSyHz6Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [How to Use Lazygit to Improve Your Git Workflow](https://app.daily.dev/posts/Ikzim2RDn?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](https://app.daily.dev/posts/eyfAoMmW7?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/nVBryVfcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Kubernetes DNS: Implementation, Services, Name Resolution](https://app.daily.dev/posts/XmDM5W6eh?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
