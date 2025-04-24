@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Kubernetes Monitoring: One view for observing all your storage volumes](https://app.daily.dev/posts/UbiI78bHV?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [NUT on my Pi, so my servers don&#39;t die](https://app.daily.dev/posts/Op3WakNSt?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/6xVKyezdc?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [📍The Art of Choosing the Right Database](https://app.daily.dev/posts/G9wSyHz6Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [How to Use Lazygit to Improve Your Git Workflow](https://app.daily.dev/posts/Ikzim2RDn?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](https://app.daily.dev/posts/eyfAoMmW7?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/nVBryVfcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Kubernetes DNS: Implementation, Services, Name Resolution](https://app.daily.dev/posts/XmDM5W6eh?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
