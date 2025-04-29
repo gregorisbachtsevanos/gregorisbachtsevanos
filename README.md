@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Chat with Gemini 2.5 Pro from VSCode via AI Studio &lpar;Free and Unlimited&rpar;](https://app.daily.dev/posts/ya3sS2B85?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Boost Node.js with V8 GC Optimization](https://app.daily.dev/posts/5tl6Hox8L?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Top 10 CI/CD Tools in 2025](https://app.daily.dev/posts/Btr5IU4Na?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Building a modern Data Warehouse from scratch](https://app.daily.dev/posts/VYl4XDFXp?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Event versioning strategies for event-driven architectures](https://app.daily.dev/posts/YUvoSoY03?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Top 11 Free AI Image Generators: Best AI Image Tools of 2025](https://app.daily.dev/posts/bZGrRG4qy?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Building a real-time video AI service with Google Gemini](https://app.daily.dev/posts/99xcR0H31?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
