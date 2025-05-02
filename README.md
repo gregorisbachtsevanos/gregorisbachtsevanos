@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Under the Hood of NextAuth.js: A Scalable Authentication System](https://app.daily.dev/posts/ZvfsdHeC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [How to Build an AI Agent to Help with Daily Tasks](https://app.daily.dev/posts/BkoqevALk?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [How To Write Unit Tests in Node.js Using Mocha](https://app.daily.dev/posts/z8WpQr2FB?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [No title](https://app.daily.dev/posts/t5TpvXKJr?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [React.js AI Chat with OpenAI API](https://app.daily.dev/posts/95NOxjYRb?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Chat with Gemini 2.5 Pro from VSCode via AI Studio &lpar;Free and Unlimited&rpar;](https://app.daily.dev/posts/ya3sS2B85?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Boost Node.js with V8 GC Optimization](https://app.daily.dev/posts/5tl6Hox8L?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
