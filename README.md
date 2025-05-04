@@ -53,9 +53,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://app.daily.dev/posts/Vv76HEW0D?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [The Ultimate Microservices Roadmap for Developers in 2025](https://app.daily.dev/posts/kDKU4lqjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [How to Harden Your Node.js APIs – Security Best Practices](https://app.daily.dev/posts/hWHwC7QL5?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [How to Build a Job Application and Interview Platform with Next.js, Stream, and Firebase How to Build a Job Application and Interview Platform with Stream.](https://app.daily.dev/posts/jCHs2rm1B?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Under the Hood of NextAuth.js: A Scalable Authentication System](https://app.daily.dev/posts/ZvfsdHeC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Build an AI Agent to Help with Daily Tasks](https://app.daily.dev/posts/BkoqevALk?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How To Write Unit Tests in Node.js Using Mocha](https://app.daily.dev/posts/z8WpQr2FB?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
