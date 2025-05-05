@@ -39,7 +39,8 @@ Check out my repositories to explore my latest projects!
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Gregoris Bachtsevanos](https://www.linkedin.com/in/gregorisbachtsevanos)
+- LinkedIn: [linkedin/Gregoris Bachtsevanos](https://www.linkedin.com/in/gregorisbachtsevanos)
+- Medium: [medium/Gregoris Bachtsevanos](https://medium.com/@gregorisbachtsevanos)
 
 🌱 Currently Learning
 
