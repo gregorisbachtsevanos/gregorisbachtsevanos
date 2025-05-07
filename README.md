@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Z82y5HfcV?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://app.daily.dev/posts/Vv76HEW0D?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [The Ultimate Microservices Roadmap for Developers in 2025](https://app.daily.dev/posts/kDKU4lqjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Harden Your Node.js APIs – Security Best Practices](https://app.daily.dev/posts/hWHwC7QL5?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Build a Job Application and Interview Platform with Next.js, Stream, and Firebase How to Build a Job Application and Interview Platform with Stream.](https://app.daily.dev/posts/jCHs2rm1B?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [AI Code Reviewer: Automate Your Code Reviews](https://app.daily.dev/posts/ivGGNIeWh?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [An Open-Source Drag and Drop Shadcn Form Builder 🤩](https://app.daily.dev/posts/6Db3GZPHr?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [100 Days of Code - The Complete Python Course](https://app.daily.dev/posts/n13uVZiaa?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/fzUUCVikL?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [MERN Stack Project: Video Calling Realtime Chat App &amp; Social App](https://app.daily.dev/posts/b8tQr1rb1?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
