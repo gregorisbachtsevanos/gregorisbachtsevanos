@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [VoltAgent - Build TS AI agents with n8n-style observability](https://app.daily.dev/posts/Ip6D5rwm1?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Microservices Architecture](https://app.daily.dev/posts/REim9158v?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/G3VLbLk08?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/WhuCooe01?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Building Real-Time Multi-Agent AI With Confluent](https://app.daily.dev/posts/7z7k7T9vl?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [✨Ui-Tools - An open source toolbox for anyone who loves building beautiful things](https://app.daily.dev/posts/Rh5eBCjZc?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Build a Smart AI Task Manager with Laravel, Livewire &amp; PrismPHP](https://app.daily.dev/posts/qPbK4k9u6?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [3D icon and design asset library](https://app.daily.dev/posts/eSWkeeyQb?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Best animation library is free now - GSAP](https://app.daily.dev/posts/MgDk8xexK?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
