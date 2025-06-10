@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Profiler: Your Digital Detective Platform](https://app.daily.dev/posts/XFPuZOIoy?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [How to Make Money with Just HTML and CSS &lpar;2025&rpar;](https://app.daily.dev/posts/9DulYsYdh?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Authentication and authorization in a microservice architecture: Part 2 - Authentication](https://app.daily.dev/posts/A399Nppny?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Storybook 9](https://app.daily.dev/posts/4ZjkVK4qn?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [No title](https://app.daily.dev/posts/XtuiDqRjK?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [React Design Patterns and Best Practices for 2025](https://app.daily.dev/posts/E1pcGrY51?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Build 3 Full-Stack Web Apps That Will Land You a Dev Job &lpar;12-Hour Full Course&rpar;](https://app.daily.dev/posts/NVXzXnL3y?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/ciNnLOvyI?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Advanced Techniques to Build Your RAG System](https://app.daily.dev/posts/LLqlxLojg?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
