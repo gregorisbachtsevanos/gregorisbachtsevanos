@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [I Built an App That Reads Your Emotions and Plays Music Automatically &lpar;Using Junie by JetBrains&rpar;](https://app.daily.dev/posts/8RmOZAq81?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [🚀 Next.js Auth Starter Kit with Better Auth](https://app.daily.dev/posts/vrD45FUhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [How to Rebuild Yourself From Zero: A Practical System for Personal Growth](https://app.daily.dev/posts/8jN94AEWN?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [We accidentally built a backend framework for LLMs](https://app.daily.dev/posts/TGy7LsSNs?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [No title](https://app.daily.dev/posts/XPZ4GyYYN?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Hacking a Smart Home Device](https://app.daily.dev/posts/AIOpdr6Dq?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Understanding Redis Keys: Patterns, Naming, and Best Practices](https://app.daily.dev/posts/4C0UeE3QZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Deploy a Web App](https://app.daily.dev/posts/drf30xGl3?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
