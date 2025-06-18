@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How server actually works?](https://app.daily.dev/posts/BBIChyMbV?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Master Dockerfile Best Practices for Your Node.js App!](https://app.daily.dev/posts/8jifi6w1p?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [The Backend-for-Frontend &lpar;BFF&rpar; Pattern: Secure Auth Done Right](https://app.daily.dev/posts/DH1Nx5Sor?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [Self-host a local AI stack and access it from anywhere](https://app.daily.dev/posts/8f84Ho6uZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [No title](https://app.daily.dev/posts/JkcRRkcdp?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [48 Most Popular Open ML Datasets](https://app.daily.dev/posts/knXhdfGMI?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Reimagining Investment Portfolio Management with Agentic AI](https://app.daily.dev/posts/Y9PRxrxLT?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
