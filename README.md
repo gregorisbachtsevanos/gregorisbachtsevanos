@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/7O8A9xe8C?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [React &amp; Next.js in 2025 - Modern Best Practices](https://app.daily.dev/posts/MBg4jqiAd?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [I Built an App That Reads Your Emotions and Plays Music Automatically &lpar;Using Junie by JetBrains&rpar;](https://app.daily.dev/posts/8RmOZAq81?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [🚀 Next.js Auth Starter Kit with Better Auth](https://app.daily.dev/posts/vrD45FUhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Rebuild Yourself From Zero: A Practical System for Personal Growth](https://app.daily.dev/posts/8jN94AEWN?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [48 Most Popular Open ML Datasets](https://app.daily.dev/posts/knXhdfGMI?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Reimagining Investment Portfolio Management with Agentic AI](https://app.daily.dev/posts/Y9PRxrxLT?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Learn Advanced TypeScript In 25 Minutes &lpar;infer, extends, ternaries&rpar;](https://app.daily.dev/posts/S8gVwOkUy?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [47 Header designs for your website to improve navigation and boost brand identity](https://app.daily.dev/posts/ESJJgtXe1?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [How Microfrontends Work: From iframes to Module Federation](https://app.daily.dev/posts/vejBn71FP?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
