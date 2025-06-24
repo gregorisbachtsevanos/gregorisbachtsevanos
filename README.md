@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Dashboards and detergent: How two students monitor laundry machines in a college dorm with Grafana](https://app.daily.dev/posts/yc5vU1rXX?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/34iHy0wA7?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [No title](https://app.daily.dev/posts/5bGA7h6pd?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Web Animations Full Course 2025 | Build an Awwwards Website &amp; Master GSAP in Two Hours](https://app.daily.dev/posts/nsQsosPEq?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [The Open Source Beginner Contributor Guide](https://app.daily.dev/posts/KSK4nZMgc?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/AFbLPYIsb?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How Kubernetes Works Internally?](https://app.daily.dev/posts/gKhj2p96i?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How server actually works?](https://app.daily.dev/posts/BBIChyMbV?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Master Dockerfile Best Practices for Your Node.js App!](https://app.daily.dev/posts/8jifi6w1p?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
