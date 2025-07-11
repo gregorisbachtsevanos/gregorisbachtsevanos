@@ -54,9 +54,9 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
 
 <!-- daily.dev BOOKMARKS:START -->
+- [AI-Ready Frontend Architecture](https://app.daily.dev/posts/DX9ZBQpfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Build a Personalized AI Assistant with Postgres](https://app.daily.dev/posts/FkXRsLKO7?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [MCP Server Support for Next.js](https://app.daily.dev/posts/3zIkeFaSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
+- [Secure Your AI API Endpoints &lpar;Rate Limiting, SQL, XSS, etc.&rpar; - Before It&#39;s Too Late!](https://app.daily.dev/posts/q0RuhDT3y?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 - [No title](https://app.daily.dev/posts/SRlAAqPOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://app.daily.dev/posts/wIiXlKNjk?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/mF8p2ZNL1?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [How to Install a Honeypot to Catch Hackers](https://app.daily.dev/posts/xG8XHvlC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/EktqNdlPC?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
 <!-- daily.dev BOOKMARKS:END -->
