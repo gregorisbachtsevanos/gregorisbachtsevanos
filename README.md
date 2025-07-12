@@ -50,13 +50,3 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 
 - I love automating workflows with scripts to simplify everyday tasks.
 - I enjoy experimenting with new technologies to stay ahead of trends.
-
-Thanks for visiting! 🎉 Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together! 🚀🚀
-
-<!-- daily.dev BOOKMARKS:START -->
-- [AI-Ready Frontend Architecture](https://app.daily.dev/posts/DX9ZBQpfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Build a Personalized AI Assistant with Postgres](https://app.daily.dev/posts/FkXRsLKO7?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [MCP Server Support for Next.js](https://app.daily.dev/posts/3zIkeFaSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [Secure Your AI API Endpoints &lpar;Rate Limiting, SQL, XSS, etc.&rpar; - Before It&#39;s Too Late!](https://app.daily.dev/posts/q0RuhDT3y?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-- [No title](https://app.daily.dev/posts/SRlAAqPOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=06rMuNpIVklSvFmAPp9Mv)
-<!-- daily.dev BOOKMARKS:END -->
