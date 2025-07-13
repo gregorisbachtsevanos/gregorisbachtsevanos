@@ -1,19 +1,21 @@
-name: daily.dev Bookmarks
+name: Latest Medium Articles
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
-  daily-dev-bookmarks:
-    name: Update this repo's README with latest bookmarks from daily.dev
+  update-medium-articles:
+    name: Update README with Medium posts
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "daily.dev BOOKMARKS"
-          feed_list: https://api.daily.dev/rss/b/14e6c3a6-cbbb-4878-9102-55d7670ace77
 
-  
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@gregorisbachtsevanos"
