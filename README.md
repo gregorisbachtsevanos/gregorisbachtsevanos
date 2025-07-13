@@ -50,3 +50,7 @@ I’m diving deeper into advanced React patterns, state management techniques, a
 
 - I love automating workflows with scripts to simplify everyday tasks.
 - I enjoy experimenting with new technologies to stay ahead of trends.
+
+<!-- MEDIUM:start -->
+<!-- MEDIUM:end -->
+
