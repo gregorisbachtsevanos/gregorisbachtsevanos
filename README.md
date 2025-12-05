@@ -41,6 +41,7 @@ Check out my repositories to explore my latest projects!
 
 - LinkedIn: [linkedin/Gregoris Bachtsevanos](https://www.linkedin.com/in/gregorisbachtsevanos)
 - Medium: [medium/Gregoris Bachtsevanos](https://medium.com/@gregorisbachtsevanos)
+- Codepen: [codepen/Gregoris Bachtsevanos](https://codepen.io/gregorisbachtsevanos)
 
 🌱 Currently Learning
 
