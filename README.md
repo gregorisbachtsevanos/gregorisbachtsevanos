@@ -1,57 +1,55 @@
-# Hi there 👋
+# Gregoris Bachtsevanos
 
-Welcome to my GitHub profile! I'm Gregoris Bachtsevanos, a passionate developer with a strong foundation in full-stack development, specializing in front-end technologies. I enjoy crafting dynamic, user-friendly interfaces while also diving deep into back-end logic to create efficient and scalable web applications. I'm driven by a passion for coding, always striving to improve my skills, solve complex challenges, and build applications that make a meaningful impact.
+Full-stack developer specializing in **front-end architecture, scalable systems, and high-performance web applications**.
 
-## 🌟 Skills
+I build products that combine **clean UX, robust back-end logic, and production-ready architecture**. My focus is not just writing code — but delivering reliable, maintainable solutions that solve real problems.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-f6d049.svg?style=for-the-badge&logo=python&logoColor=346d9e)
+---
 
-### Front-End Development
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/nextjs-272727.svg?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/redux-7348B6.svg?style=for-the-badge&logo=redux)
-![Styled Components](https://img.shields.io/badge/styled%20components-%23323330.svg?style=for-the-badge&logo=styled-components&logoColor=%23F7DF1E0)
+## Core Strengths
 
-### Back-End Development
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-E8E8E8.svg?style=for-the-badge&logo=express&logoColor=black)
+* Advanced React & modern front-end architecture
+* Scalable Node.js back-end systems
+* Real-time & high-performance applications
+* Clean code, testing & maintainability
+* Security-first engineering mindset
+* Developer productivity & automation
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-3D6E93.svg?style=for-the-badge&logo=mysql&logoColor=F29121)
-![Postgresql](https://img.shields.io/badge/postgesql-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=F29121)
-![Supabase](https://img.shields.io/badge/supabase-1c1c1c.svg?style=for-the-badge&logo=supabase&logoColor=3ed18f)
-![Firebase](https://img.shields.io/badge/firebase-2A3545.svg?style=for-the-badge&logo=firebase&logoColor=ffcd33)
-![Redis](https://img.shields.io/badge/redis-7A0C00.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+---
 
-### Other Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2396ec.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Mongoose](https://img.shields.io/badge/mongoose-darkred?style=for-the-badge&logo=mongoose)
+## Tech Stack
 
- ## 📂 Projects
- 
-Check out my repositories to explore my latest projects!
+**Front-End:** React • Next.js • Redux • SASS • Styled Components
+**Back-End:** Node.js • Express • REST APIs • Socket.io
+**Databases:** MongoDB • PostgreSQL • MySQL • Redis • Supabase • Firebase
+**DevOps & Tools:** Docker • CI/CD • Git • Automation scripting
 
-## 📫 Connect with Me
+---
 
+## Engineering Philosophy
+
+* Build for scalability from day one
+* Optimize for developer experience
+* Ship fast without sacrificing quality
+* Prefer simple solutions over complex abstractions
+* Focus on measurable product impact
+
+---
+
+## Current Focus
+
+* Advanced React architecture & performance
+* Security best practices
+* System design & scalable architecture
+* Developer tooling & automation
+
+---
+
+## Connect With Me
 - LinkedIn: [linkedin/Gregoris Bachtsevanos](https://www.linkedin.com/in/gregorisbachtsevanos)
 - Medium: [medium/Gregoris Bachtsevanos](https://medium.com/@gregorisbachtsevanos)
 - Codepen: [codepen/Gregoris Bachtsevanos](https://codepen.io/gregorisbachtsevanos)
 
-🌱 Currently Learning
+---
 
-I’m diving deeper into advanced React patterns, state management techniques, and security best practices to enhance my development workflow.
-
-🎨 Fun Facts
-
-- I love automating workflows with scripts to simplify everyday tasks.
-- I enjoy experimenting with new technologies to stay ahead of trends.
-
-<!-- MEDIUM:start -->
-<!-- MEDIUM:end -->
-
+*Always open to collaboration and meaningful projects.*
