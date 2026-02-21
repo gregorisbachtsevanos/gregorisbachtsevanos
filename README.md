@@ -19,10 +19,10 @@ I build products that combine **clean UX, robust back-end logic, and production-
 
 ## Tech Stack
 
-**Front-End:** React • Next.js • Redux • SASS • Styled Components
-**Back-End:** Node.js • Express • REST APIs • Socket.io
-**Databases:** MongoDB • PostgreSQL • MySQL • Redis • Supabase • Firebase
-**DevOps & Tools:** Docker • CI/CD • Git • Automation scripting
+* Front-End: React | Next.js | Redux | SASS | Styled Components
+* Back-End: Node.js | Express | REST APIs | Socket.io
+* Databases: MongoDB | PostgreSQL | MySQL | Redis | Supabase | Firebase
+* DevOps & Tools: Docker | CI/CD | Git | Automation scripting
 
 ---
 
