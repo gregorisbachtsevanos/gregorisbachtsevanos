@@ -69,13 +69,13 @@ I default to simple before clever. I write code the next developer (usually futu
 
 ## 🎯 Beyond the Code
 
-**📈 Forex Trading**
-Markets are complex adaptive systems — feedback loops, liquidity dynamics, participant psychology layered on top of macro fundamentals. I trade manually, keep a journal, and treat every losing trade as a data point. Cutting losses early and letting winners run maps directly to software: kill failing experiments fast, double down on what works.
+#### 📈 Forex Trading
+Markets are complex, adaptive systems, liquidity dynamics, participant psychology layered on top of macro fundamentals. I trade manually, keep a journal, and treat every losing trade as a data point. Cutting losses early and letting winners run maps directly to software, kill failing experiments fast, double down on what works.
 
-**🏋️ Exercise**
-Consistency over intensity. The same principle that makes a codebase maintainable makes a training routine sustainable — show up, do the work, trust the compound effect.
+#### 🏋️ Exercise
+Consistency over intensity. The same principle that makes a codebase maintainable makes a training routine sustainable. Show up, do the work, trust the compound effect.
 
-**🎸 Guitar**
+#### 🎸 Guitar
 There's something about learning an instrument that resets how you think about mastery. You can always tell the difference between someone who memorized the shapes and someone who understands the music. Same goes for engineering.
 
 ---
