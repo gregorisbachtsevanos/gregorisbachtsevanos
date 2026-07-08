@@ -80,17 +80,6 @@ There's something about learning an instrument that resets how you think about m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- ![GitHub Stats](https://ghstats.dev/api/card?username=gregorisbachtsevanos&show_icons=true&theme=github_dark&hide_border=true) 
-![GitHub Stats](https://streak-stats.demolab.com/?user=gregorisbachtsevanos&show_icons=true&theme=github_dark&hide_border=true) -->
-
-</div>
-
----
-
 <div align="center">
 
 *Open to interesting collaborations. If you're building something worth building, reach out.*
